@@ -6,4 +6,5 @@
 * RxJava: https://github.com/izeye/hello-RxJava
 * Spring Boot: https://github.com/izeye/hello-spring-boot
 * Spring Cloud Gateway: https://github.com/izeye/hello-spring-cloud-gateway
+* Spring REST Docs: https://github.com/izeye/hello-spring-restdocs
 * System Stubs: https://github.com/izeye/hello-system-stubs
