@@ -1,6 +1,7 @@
 # hello-world
 
 * browscap-java: https://github.com/izeye/hello-browscap-java
+* Chrome Extension: https://github.com/izeye/hello-chrome-extension
 * Elasticsearch Java Client: https://github.com/izeye/hello-elasticsearch-java
 * Java: https://github.com/izeye/hello-java
 * restdocs-api-spec: https://github.com/izeye/hello-restdocs-api-spec
