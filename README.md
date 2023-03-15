@@ -3,6 +3,7 @@
 * browscap-java: https://github.com/izeye/hello-browscap-java
 * Chrome Extension: https://github.com/izeye/hello-chrome-extension
 * Elasticsearch Java Client: https://github.com/izeye/hello-elasticsearch-java
+* Gradle Avro Plugin: https://github.com/izeye/hello-gradle-avro-plugin
 * Java: https://github.com/izeye/hello-java
 * OpenAI-Java: https://github.com/izeye/hello-openai-java
 * restdocs-api-spec: https://github.com/izeye/hello-restdocs-api-spec
