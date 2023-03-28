@@ -1,5 +1,6 @@
 # hello-world
 
+* AssertJ: https://github.com/izeye/hello-assertj
 * browscap-java: https://github.com/izeye/hello-browscap-java
 * Chrome Extension: https://github.com/izeye/hello-chrome-extension
 * Elasticsearch Java Client: https://github.com/izeye/hello-elasticsearch-java
