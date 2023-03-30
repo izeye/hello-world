@@ -7,6 +7,7 @@
 * Gradle Avro Plugin: https://github.com/izeye/hello-gradle-avro-plugin
 * JaCoCo Gradle Plugin: https://github.com/izeye/hello-jacoco-gradle-plugin
 * Java: https://github.com/izeye/hello-java
+* Kotlin: https://github.com/izeye/hello-kotlin
 * MapStruct: https://github.com/izeye/hello-mapstruct
 * Next.js: https://github.com/izeye/hello-nextjs
 * OpenAI-Java: https://github.com/izeye/hello-openai-java
