@@ -1,5 +1,6 @@
 # hello-world
 
+* Asciidoctor: https://github.com/izeye/hello-asciidoctor
 * AssertJ: https://github.com/izeye/hello-assertj
 * browscap-java: https://github.com/izeye/hello-browscap-java
 * Chrome Extension: https://github.com/izeye/hello-chrome-extension
