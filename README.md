@@ -6,6 +6,7 @@
 * Chrome Extension: https://github.com/izeye/hello-chrome-extension
 * Elasticsearch Java Client: https://github.com/izeye/hello-elasticsearch-java
 * Gradle Avro Plugin: https://github.com/izeye/hello-gradle-avro-plugin
+* gradle-git-publish: https://github.com/izeye/hello-gradle-git-publish
 * JaCoCo Gradle Plugin: https://github.com/izeye/hello-jacoco-gradle-plugin
 * Java: https://github.com/izeye/hello-java
 * Kotlin: https://github.com/izeye/hello-kotlin
