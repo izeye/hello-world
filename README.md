@@ -12,6 +12,7 @@
 * Java: https://github.com/izeye/hello-java
 * Kotlin: https://github.com/izeye/hello-kotlin
 * MapStruct: https://github.com/izeye/hello-mapstruct
+* Nest: https://github.com/izeye/hello-nest
 * Next.js: https://github.com/izeye/hello-nextjs
 * OpenAI-Java: https://github.com/izeye/hello-openai-java
 * React: https://github.com/izeye/hello-react
