@@ -14,6 +14,7 @@
 * MapStruct: https://github.com/izeye/hello-mapstruct
 * Next.js: https://github.com/izeye/hello-nextjs
 * OpenAI-Java: https://github.com/izeye/hello-openai-java
+* React: https://github.com/izeye/hello-react
 * restdocs-api-spec: https://github.com/izeye/hello-restdocs-api-spec
 * RxJava: https://github.com/izeye/hello-RxJava
 * Spring Boot: https://github.com/izeye/hello-spring-boot
