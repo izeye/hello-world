@@ -5,6 +5,7 @@
 * browscap-java: https://github.com/izeye/hello-browscap-java
 * Chrome Extension: https://github.com/izeye/hello-chrome-extension
 * Elasticsearch Java Client: https://github.com/izeye/hello-elasticsearch-java
+* FastAPI: https://github.com/izeye/hello-fastapi
 * Firebase Admin Java SDK: https://github.com/izeye/hello-firebase-admin-java
 * Gradle Avro Plugin: https://github.com/izeye/hello-gradle-avro-plugin
 * gradle-git-publish: https://github.com/izeye/hello-gradle-git-publish
