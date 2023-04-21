@@ -7,6 +7,7 @@
 * Elasticsearch Java Client: https://github.com/izeye/hello-elasticsearch-java
 * FastAPI: https://github.com/izeye/hello-fastapi
 * Firebase Admin Java SDK: https://github.com/izeye/hello-firebase-admin-java
+* GitHub Actions: https://github.com/izeye/hello-github-actions
 * GitHub API for Java: https://github.com/izeye/hello-github-api-for-java
 * Gradle Avro Plugin: https://github.com/izeye/hello-gradle-avro-plugin
 * gradle-git-publish: https://github.com/izeye/hello-gradle-git-publish
