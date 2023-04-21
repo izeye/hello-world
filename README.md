@@ -12,6 +12,7 @@
 * github-script: https://github.com/izeye/hello-github-script
 * Gradle Avro Plugin: https://github.com/izeye/hello-gradle-avro-plugin
 * gradle-git-publish: https://github.com/izeye/hello-gradle-git-publish
+* HTTP Request Action: https://github.com/izeye/hello-http-request-action
 * JaCoCo Gradle Plugin: https://github.com/izeye/hello-jacoco-gradle-plugin
 * Java: https://github.com/izeye/hello-java
 * Kotlin: https://github.com/izeye/hello-kotlin
