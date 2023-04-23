@@ -10,6 +10,7 @@
 * GitHub Actions: https://github.com/izeye/hello-github-actions
 * GitHub API for Java: https://github.com/izeye/hello-github-api-for-java
 * github-script: https://github.com/izeye/hello-github-script
+* Google Cloud Run for Python: https://github.com/izeye/hello-google-cloud-run-python
 * Gradle Avro Plugin: https://github.com/izeye/hello-gradle-avro-plugin
 * gradle-git-publish: https://github.com/izeye/hello-gradle-git-publish
 * HTTP Request Action: https://github.com/izeye/hello-http-request-action
