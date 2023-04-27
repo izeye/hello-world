@@ -16,6 +16,7 @@
 * HTTP Request Action: https://github.com/izeye/hello-http-request-action
 * JaCoCo Gradle Plugin: https://github.com/izeye/hello-jacoco-gradle-plugin
 * Java: https://github.com/izeye/hello-java
+* JavaScript: https://github.com/izeye/hello-javascript
 * Kotlin: https://github.com/izeye/hello-kotlin
 * MapStruct: https://github.com/izeye/hello-mapstruct
 * Nest: https://github.com/izeye/hello-nest
