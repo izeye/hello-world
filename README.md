@@ -9,6 +9,7 @@
 * Firebase Admin Java SDK: https://github.com/izeye/hello-firebase-admin-java
 * GitHub Actions: https://github.com/izeye/hello-github-actions
 * GitHub API for Java: https://github.com/izeye/hello-github-api-for-java
+* GitHub Pages: https://github.com/izeye/hello-github-pages
 * github-script: https://github.com/izeye/hello-github-script
 * Google Cloud Run for Python: https://github.com/izeye/hello-google-cloud-run-python
 * Gradle Avro Plugin: https://github.com/izeye/hello-gradle-avro-plugin
