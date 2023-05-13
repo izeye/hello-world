@@ -28,6 +28,7 @@
 * React: https://github.com/izeye/hello-react
 * restdocs-api-spec: https://github.com/izeye/hello-restdocs-api-spec
 * RxJava: https://github.com/izeye/hello-RxJava
+* Scrapy: https://github.com/izeye/hello-scrapy
 * Spring Boot: https://github.com/izeye/hello-spring-boot
 * Spring Cloud Gateway: https://github.com/izeye/hello-spring-cloud-gateway
 * Spring REST Docs: https://github.com/izeye/hello-spring-restdocs
