@@ -36,3 +36,4 @@
 * System Stubs: https://github.com/izeye/hello-system-stubs
 * TypeScript: https://github.com/izeye/hello-typescript
 * Update Gradle Wrapper Action: https://github.com/izeye/hello-update-gradle-wrapper-action
+* Zyte: https://github.com/izeye/hello-zyte
