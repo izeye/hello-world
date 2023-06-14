@@ -26,6 +26,7 @@
 * Nest: https://github.com/izeye/hello-nest
 * Next.js: https://github.com/izeye/hello-nextjs
 * OpenAI-Java: https://github.com/izeye/hello-openai-java
+* Prisma Client Python: https://github.com/izeye/hello-prisma-client-python
 * React: https://github.com/izeye/hello-react
 * restdocs-api-spec: https://github.com/izeye/hello-restdocs-api-spec
 * RxJava: https://github.com/izeye/hello-RxJava
