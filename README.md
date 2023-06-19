@@ -22,6 +22,7 @@
 * JavaScript: https://github.com/izeye/hello-javascript
 * Kotlin: https://github.com/izeye/hello-kotlin
 * Logback Jackson: https://github.com/izeye/hello-logback-jackson
+* Mockito: https://github.com/izeye/hello-mockito
 * MapStruct: https://github.com/izeye/hello-mapstruct
 * Nest: https://github.com/izeye/hello-nest
 * Next.js: https://github.com/izeye/hello-nextjs
