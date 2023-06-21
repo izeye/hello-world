@@ -17,6 +17,7 @@
 * gradle-git-publish: https://github.com/izeye/hello-gradle-git-publish
 * Helm: https://github.com/izeye/hello-helm
 * HTTP Request Action: https://github.com/izeye/hello-http-request-action
+* HTTPX: https://github.com/izeye/hello-httpx
 * JaCoCo Gradle Plugin: https://github.com/izeye/hello-jacoco-gradle-plugin
 * Java: https://github.com/izeye/hello-java
 * JavaScript: https://github.com/izeye/hello-javascript
