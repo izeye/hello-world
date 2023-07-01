@@ -22,6 +22,7 @@
 * Java: https://github.com/izeye/hello-java
 * JavaScript: https://github.com/izeye/hello-javascript
 * Kotlin: https://github.com/izeye/hello-kotlin
+* LangChain: https://github.com/izeye/hello-langchain
 * Logback Jackson: https://github.com/izeye/hello-logback-jackson
 * Mockito: https://github.com/izeye/hello-mockito
 * MapStruct: https://github.com/izeye/hello-mapstruct
