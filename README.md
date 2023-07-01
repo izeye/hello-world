@@ -35,6 +35,7 @@
 * RxJava: https://github.com/izeye/hello-RxJava
 * Scrapy: https://github.com/izeye/hello-scrapy
 * Spring Boot: https://github.com/izeye/hello-spring-boot
+* Spring Boot with JDBC: https://github.com/izeye/hello-spring-boot-jdbc
 * Spring Boot with Micrometer: https://github.com/izeye/hello-spring-boot-micrometer
 * Spring Cloud Gateway: https://github.com/izeye/hello-spring-cloud-gateway
 * Spring REST Docs: https://github.com/izeye/hello-spring-restdocs
