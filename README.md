@@ -31,6 +31,7 @@
 * OpenAI-Java: https://github.com/izeye/hello-openai-java
 * Pinecone: https://github.com/izeye/hello-pinecone
 * Prisma Client Python: https://github.com/izeye/hello-prisma-client-python
+* pytest: https://github.com/izeye/hello-pytest
 * Python: https://github.com/izeye/hello-python
 * React: https://github.com/izeye/hello-react
 * restdocs-api-spec: https://github.com/izeye/hello-restdocs-api-spec
