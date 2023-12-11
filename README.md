@@ -38,6 +38,7 @@
 * restdocs-api-spec: https://github.com/izeye/hello-restdocs-api-spec
 * RxJava: https://github.com/izeye/hello-RxJava
 * Scrapy: https://github.com/izeye/hello-scrapy
+* Spring AI: https://github.com/izeye/hello-spring-ai
 * Spring Boot: https://github.com/izeye/hello-spring-boot
 * Spring Boot with JDBC: https://github.com/izeye/hello-spring-boot-jdbc
 * Spring Boot with Micrometer: https://github.com/izeye/hello-spring-boot-micrometer
