@@ -7,6 +7,7 @@
 * Elasticsearch Java Client: https://github.com/izeye/hello-elasticsearch-java
 * FastAPI: https://github.com/izeye/hello-fastapi
 * Firebase Admin Java SDK: https://github.com/izeye/hello-firebase-admin-java
+* Git: https://github.com/izeye/hello-git
 * GitHub Actions: https://github.com/izeye/hello-github-actions
 * GitHub API for Java: https://github.com/izeye/hello-github-api-for-java
 * GitHub Pages: https://github.com/izeye/hello-github-pages
