@@ -14,6 +14,7 @@
 * github-script: https://github.com/izeye/hello-github-script
 * Google Cloud Functions for Python: https://github.com/izeye/hello-google-cloud-functions-python
 * Google Cloud Run for Python: https://github.com/izeye/hello-google-cloud-run-python
+* Google Cloud TTS for Java: https://github.com/izeye/hello-google-cloud-tts-java
 * Gradle Avro Plugin: https://github.com/izeye/hello-gradle-avro-plugin
 * gradle-git-publish: https://github.com/izeye/hello-gradle-git-publish
 * Helm: https://github.com/izeye/hello-helm
