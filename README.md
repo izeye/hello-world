@@ -26,9 +26,9 @@
 * Kotlin: https://github.com/izeye/hello-kotlin
 * LangChain: https://github.com/izeye/hello-langchain
 * Logback Jackson: https://github.com/izeye/hello-logback-jackson
+* MapStruct: https://github.com/izeye/hello-mapstruct
 * Mockito: https://github.com/izeye/hello-mockito
 * Mockito-Kotlin: https://github.com/izeye/hello-mockito-kotlin
-* MapStruct: https://github.com/izeye/hello-mapstruct
 * Nest: https://github.com/izeye/hello-nest
 * Next.js: https://github.com/izeye/hello-nextjs
 * OpenAI-Java: https://github.com/izeye/hello-openai-java
