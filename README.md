@@ -27,6 +27,7 @@
 * LangChain: https://github.com/izeye/hello-langchain
 * Logback Jackson: https://github.com/izeye/hello-logback-jackson
 * MapStruct: https://github.com/izeye/hello-mapstruct
+* Micrometer: https://github.com/izeye/hello-micrometer
 * Mockito: https://github.com/izeye/hello-mockito
 * Mockito-Kotlin: https://github.com/izeye/hello-mockito-kotlin
 * Nest: https://github.com/izeye/hello-nest
