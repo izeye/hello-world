@@ -22,6 +22,7 @@
 * HTTPX: https://github.com/izeye/hello-httpx
 * JaCoCo Gradle Plugin: https://github.com/izeye/hello-jacoco-gradle-plugin
 * Java: https://github.com/izeye/hello-java
+* JavaFX: https://github.com/izeye/hello-javafx
 * JavaScript: https://github.com/izeye/hello-javascript
 * Kotlin: https://github.com/izeye/hello-kotlin
 * LangChain: https://github.com/izeye/hello-langchain
