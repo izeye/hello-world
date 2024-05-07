@@ -5,6 +5,7 @@
 * AssertJ: https://github.com/izeye/hello-assertj
 * browscap-java: https://github.com/izeye/hello-browscap-java
 * Chrome Extension: https://github.com/izeye/hello-chrome-extension
+* Docker: https://github.com/izeye/hello-docker
 * Elasticsearch Java Client: https://github.com/izeye/hello-elasticsearch-java
 * FastAPI: https://github.com/izeye/hello-fastapi
 * Firebase Admin Java SDK: https://github.com/izeye/hello-firebase-admin-java
