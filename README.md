@@ -22,6 +22,7 @@
 * Helm: https://github.com/izeye/hello-helm
 * HTTP Request Action: https://github.com/izeye/hello-http-request-action
 * HTTPX: https://github.com/izeye/hello-httpx
+* Jackson: https://github.com/izeye/hello-jackson
 * JaCoCo Gradle Plugin: https://github.com/izeye/hello-jacoco-gradle-plugin
 * Java: https://github.com/izeye/hello-java
 * JavaFX: https://github.com/izeye/hello-javafx
