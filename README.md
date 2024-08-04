@@ -27,6 +27,7 @@
 * Java: https://github.com/izeye/hello-java
 * JavaFX: https://github.com/izeye/hello-javafx
 * JavaScript: https://github.com/izeye/hello-javascript
+* JMH: https://github.com/izeye/hello-jmh
 * Kotlin: https://github.com/izeye/hello-kotlin
 * LangChain: https://github.com/izeye/hello-langchain
 * Logback Jackson: https://github.com/izeye/hello-logback-jackson
