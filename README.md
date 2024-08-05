@@ -27,6 +27,7 @@
 * Java: https://github.com/izeye/hello-java
 * JavaFX: https://github.com/izeye/hello-javafx
 * JavaScript: https://github.com/izeye/hello-javascript
+* jcstress: https://github.com/izeye/hello-jcstress
 * Jcstress Gradle Plugin: https://github.com/izeye/hello-jcstress-gradle-plugin
 * JMH: https://github.com/izeye/hello-jmh
 * JMH Gradle Plugin: https://github.com/izeye/hello-jmh-gradle-plugin
