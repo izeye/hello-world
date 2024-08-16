@@ -31,6 +31,7 @@
 * Jcstress Gradle Plugin: https://github.com/izeye/hello-jcstress-gradle-plugin
 * JMH: https://github.com/izeye/hello-jmh
 * JMH Gradle Plugin: https://github.com/izeye/hello-jmh-gradle-plugin
+* jsoup: https://github.com/izeye/hello-jsoup
 * Kotlin: https://github.com/izeye/hello-kotlin
 * LangChain: https://github.com/izeye/hello-langchain
 * Logback Jackson: https://github.com/izeye/hello-logback-jackson
