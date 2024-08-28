@@ -4,6 +4,7 @@
 * Asciidoctor: https://github.com/izeye/hello-asciidoctor
 * AssertJ: https://github.com/izeye/hello-assertj
 * browscap-java: https://github.com/izeye/hello-browscap-java
+* Caffeine: https://github.com/izeye/hello-caffeine
 * Chrome Extension: https://github.com/izeye/hello-chrome-extension
 * Docker: https://github.com/izeye/hello-docker
 * Elasticsearch Java Client: https://github.com/izeye/hello-elasticsearch-java
