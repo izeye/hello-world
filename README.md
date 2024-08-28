@@ -20,6 +20,7 @@
 * Google Cloud TTS for Java: https://github.com/izeye/hello-google-cloud-tts-java
 * Gradle Avro Plugin: https://github.com/izeye/hello-gradle-avro-plugin
 * gradle-git-publish: https://github.com/izeye/hello-gradle-git-publish
+* Guava: https://github.com/izeye/hello-guava
 * Helm: https://github.com/izeye/hello-helm
 * HTTP Request Action: https://github.com/izeye/hello-http-request-action
 * HTTPX: https://github.com/izeye/hello-httpx
