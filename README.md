@@ -37,6 +37,7 @@
 * Kotlin: https://github.com/izeye/hello-kotlin
 * LangChain: https://github.com/izeye/hello-langchain
 * Logback Jackson: https://github.com/izeye/hello-logback-jackson
+* Lombok: https://github.com/izeye/hello-lombok
 * MapStruct: https://github.com/izeye/hello-mapstruct
 * Micrometer: https://github.com/izeye/hello-micrometer
 * Mockito: https://github.com/izeye/hello-mockito
