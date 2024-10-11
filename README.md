@@ -34,6 +34,7 @@
 * JMH: https://github.com/izeye/hello-jmh
 * JMH Gradle Plugin: https://github.com/izeye/hello-jmh-gradle-plugin
 * jsoup: https://github.com/izeye/hello-jsoup
+* JUnit Pioneer: https://github.com/izeye/hello-junit-pioneer
 * Kotlin: https://github.com/izeye/hello-kotlin
 * LangChain: https://github.com/izeye/hello-langchain
 * Logback Jackson: https://github.com/izeye/hello-logback-jackson
