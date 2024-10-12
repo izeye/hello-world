@@ -1,6 +1,7 @@
 # hello-world
 
 * Apache Commons Text: https://github.com/izeye/hello-apache-commons-text
+* ArchUnit: https://github.com/izeye/hello-archunit
 * Asciidoctor: https://github.com/izeye/hello-asciidoctor
 * AssertJ: https://github.com/izeye/hello-assertj
 * browscap-java: https://github.com/izeye/hello-browscap-java
