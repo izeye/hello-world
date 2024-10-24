@@ -27,6 +27,7 @@
 * HTTPX: https://github.com/izeye/hello-httpx
 * Jackson: https://github.com/izeye/hello-jackson
 * JaCoCo Gradle Plugin: https://github.com/izeye/hello-jacoco-gradle-plugin
+* Jakarta XML Binding: https://github.com/izeye/hello-jakarta-xml-binding
 * Java: https://github.com/izeye/hello-java
 * JavaFX: https://github.com/izeye/hello-javafx
 * JavaScript: https://github.com/izeye/hello-javascript
