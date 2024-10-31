@@ -47,6 +47,7 @@
 * Micrometer: https://github.com/izeye/hello-micrometer
 * Mockito: https://github.com/izeye/hello-mockito
 * Mockito-Kotlin: https://github.com/izeye/hello-mockito-kotlin
+* Native Image Gradle Plugin: https://github.com/izeye/hello-native-image-gradle-plugin
 * Nest: https://github.com/izeye/hello-nest
 * Next.js: https://github.com/izeye/hello-nextjs
 * OpenAI-Java: https://github.com/izeye/hello-openai-java
