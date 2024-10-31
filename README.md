@@ -23,6 +23,7 @@
 * Gradle Avro Plugin: https://github.com/izeye/hello-gradle-avro-plugin
 * gradle-git-publish: https://github.com/izeye/hello-gradle-git-publish
 * Guava: https://github.com/izeye/hello-guava
+* Hazelcast Java Client: https://github.com/izeye/hello-hazelcast-java-client
 * Helm: https://github.com/izeye/hello-helm
 * HTTP Request Action: https://github.com/izeye/hello-http-request-action
 * HTTPX: https://github.com/izeye/hello-httpx
