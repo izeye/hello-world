@@ -52,6 +52,7 @@
 * Nest: https://github.com/izeye/hello-nest
 * Next.js: https://github.com/izeye/hello-nextjs
 * OpenAI-Java: https://github.com/izeye/hello-openai-java
+* OpenRewrite: https://github.com/izeye/hello-openrewrite
 * Pinecone: https://github.com/izeye/hello-pinecone
 * Prisma Client Python: https://github.com/izeye/hello-prisma-client-python
 * pytest: https://github.com/izeye/hello-pytest
