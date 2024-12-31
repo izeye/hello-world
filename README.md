@@ -63,6 +63,7 @@
 * RxJava: https://github.com/izeye/hello-RxJava
 * Scrapy: https://github.com/izeye/hello-scrapy
 * Spring AI: https://github.com/izeye/hello-spring-ai
+* Spring Batch: https://github.com/izeye/hello-spring-batch
 * Spring Boot: https://github.com/izeye/hello-spring-boot
 * Spring Boot with JDBC: https://github.com/izeye/hello-spring-boot-jdbc
 * Spring Boot with Kotlin: https://github.com/izeye/hello-spring-boot-kotlin
