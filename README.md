@@ -5,6 +5,7 @@
 * ArchUnit: https://github.com/izeye/hello-archunit
 * Asciidoctor: https://github.com/izeye/hello-asciidoctor
 * AssertJ: https://github.com/izeye/hello-assertj
+* Awaitility: https://github.com/izeye/hello-awaitility
 * browscap-java: https://github.com/izeye/hello-browscap-java
 * Caffeine: https://github.com/izeye/hello-caffeine
 * Chrome Extension: https://github.com/izeye/hello-chrome-extension
