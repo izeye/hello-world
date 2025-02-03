@@ -73,6 +73,7 @@
 * Spring Cloud Gateway: https://github.com/izeye/hello-spring-cloud-gateway
 * Spring REST Docs: https://github.com/izeye/hello-spring-restdocs
 * System Stubs: https://github.com/izeye/hello-system-stubs
+* Test Retry Gradle plugin: https://github.com/izeye/hello-test-retry-gradle-plugin
 * TypeScript: https://github.com/izeye/hello-typescript
 * Update Gradle Wrapper Action: https://github.com/izeye/hello-update-gradle-wrapper-action
 * Zyte: https://github.com/izeye/hello-zyte
