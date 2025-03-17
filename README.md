@@ -1,5 +1,6 @@
 # hello-world
 
+* Aho-Corasick: https://github.com/izeye/hello-aho-corasick
 * Apache Commons Codec: https://github.com/izeye/hello-apache-commons-codec
 * Apache Commons Text: https://github.com/izeye/hello-apache-commons-text
 * ArchUnit: https://github.com/izeye/hello-archunit
