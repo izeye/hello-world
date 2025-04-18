@@ -23,6 +23,7 @@
 * Google Cloud Run for Python: https://github.com/izeye/hello-google-cloud-run-python
 * Google Cloud TTS for Java: https://github.com/izeye/hello-google-cloud-tts-java
 * Gradle Avro Plugin: https://github.com/izeye/hello-gradle-avro-plugin
+* gradle-errorprone-plugin: https://github.com/izeye/hello-gradle-errorprone-plugin
 * gradle-git-publish: https://github.com/izeye/hello-gradle-git-publish
 * Guava: https://github.com/izeye/hello-guava
 * Hazelcast Java Client: https://github.com/izeye/hello-hazelcast-java-client
