@@ -8,6 +8,7 @@
 * AssertJ: https://github.com/izeye/hello-assertj
 * Awaitility: https://github.com/izeye/hello-awaitility
 * browscap-java: https://github.com/izeye/hello-browscap-java
+* Bucket4j: https://github.com/izeye/hello-bucket4j
 * Caffeine: https://github.com/izeye/hello-caffeine
 * Chrome Extension: https://github.com/izeye/hello-chrome-extension
 * Docker: https://github.com/izeye/hello-docker
