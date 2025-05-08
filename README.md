@@ -12,6 +12,7 @@
 * Caffeine: https://github.com/izeye/hello-caffeine
 * Chrome Extension: https://github.com/izeye/hello-chrome-extension
 * Docker: https://github.com/izeye/hello-docker
+* Dropwizard Metrics: https://github.com/izeye/hello-dropwizard-metrics
 * Elasticsearch Java Client: https://github.com/izeye/hello-elasticsearch-java
 * FastAPI: https://github.com/izeye/hello-fastapi
 * Firebase Admin Java SDK: https://github.com/izeye/hello-firebase-admin-java
