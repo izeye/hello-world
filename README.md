@@ -63,6 +63,7 @@
 * OpenRewrite: https://github.com/izeye/hello-openrewrite
 * Pinecone: https://github.com/izeye/hello-pinecone
 * Prisma Client Python: https://github.com/izeye/hello-prisma-client-python
+* Prometheus Java Metrics Library: https://github.com/izeye/hello-prometheus-client-java
 * pytest: https://github.com/izeye/hello-pytest
 * Python: https://github.com/izeye/hello-python
 * React: https://github.com/izeye/hello-react
