@@ -83,5 +83,6 @@
 * Test Retry Gradle plugin: https://github.com/izeye/hello-test-retry-gradle-plugin
 * TypeScript: https://github.com/izeye/hello-typescript
 * Update Gradle Wrapper Action: https://github.com/izeye/hello-update-gradle-wrapper-action
+* Vavr: https://github.com/izeye/hello-vavr
 * Yauaa: https://github.com/izeye/hello-yauaa
 * Zyte: https://github.com/izeye/hello-zyte
