@@ -67,6 +67,7 @@
 * pytest: https://github.com/izeye/hello-pytest
 * Python: https://github.com/izeye/hello-python
 * React: https://github.com/izeye/hello-react
+* Resilience4j: https://github.com/izeye/hello-resilience4j
 * REST Assured: https://github.com/izeye/hello-rest-assured
 * restdocs-api-spec: https://github.com/izeye/hello-restdocs-api-spec
 * RxJava: https://github.com/izeye/hello-RxJava
