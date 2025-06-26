@@ -85,5 +85,6 @@
 * TypeScript: https://github.com/izeye/hello-typescript
 * Update Gradle Wrapper Action: https://github.com/izeye/hello-update-gradle-wrapper-action
 * Vavr: https://github.com/izeye/hello-vavr
+* WireMock: https://github.com/izeye/hello-wiremock
 * Yauaa: https://github.com/izeye/hello-yauaa
 * Zyte: https://github.com/izeye/hello-zyte
