@@ -59,6 +59,7 @@
 * Native Image Gradle Plugin: https://github.com/izeye/hello-native-image-gradle-plugin
 * Nest: https://github.com/izeye/hello-nest
 * Next.js: https://github.com/izeye/hello-nextjs
+* NullAway: https://github.com/izeye/hello-nullaway
 * OpenAI-Java: https://github.com/izeye/hello-openai-java
 * OpenRewrite: https://github.com/izeye/hello-openrewrite
 * Pinecone: https://github.com/izeye/hello-pinecone
