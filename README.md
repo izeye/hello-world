@@ -39,6 +39,7 @@
 * Jakarta XML Binding: https://github.com/izeye/hello-jakarta-xml-binding
 * Java: https://github.com/izeye/hello-java
 * Java 8: https://github.com/izeye/hello-java-8
+* Java 17: https://github.com/izeye/hello-java-17
 * JavaFX: https://github.com/izeye/hello-javafx
 * JavaScript: https://github.com/izeye/hello-javascript
 * jcstress: https://github.com/izeye/hello-jcstress
