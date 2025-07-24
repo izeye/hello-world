@@ -64,6 +64,7 @@
 * Nest: https://github.com/izeye/hello-nest
 * Next.js: https://github.com/izeye/hello-nextjs
 * NullAway: https://github.com/izeye/hello-nullaway
+* Ollama: https://github.com/izeye/hello-ollama
 * OpenAI-Java: https://github.com/izeye/hello-openai-java
 * OpenRewrite: https://github.com/izeye/hello-openrewrite
 * Pinecone: https://github.com/izeye/hello-pinecone
