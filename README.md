@@ -57,6 +57,7 @@
 * Logback Jackson: https://github.com/izeye/hello-logback-jackson
 * Lombok: https://github.com/izeye/hello-lombok
 * MapStruct: https://github.com/izeye/hello-mapstruct
+* Math: https://github.com/izeye/hello-math
 * Micrometer: https://github.com/izeye/hello-micrometer
 * Micrometer with Maven: https://github.com/izeye/hello-micrometer-maven
 * Mockito: https://github.com/izeye/hello-mockito
