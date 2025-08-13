@@ -43,6 +43,7 @@
 * Java 8: https://github.com/izeye/hello-java-8
 * Java 17: https://github.com/izeye/hello-java-17
 * JavaFX: https://github.com/izeye/hello-javafx
+* Java Profiling: https://github.com/izeye/hello-java-profiling
 * JavaScript: https://github.com/izeye/hello-javascript
 * jcstress: https://github.com/izeye/hello-jcstress
 * Jcstress Gradle Plugin: https://github.com/izeye/hello-jcstress-gradle-plugin
